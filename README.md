@@ -1,9 +1,14 @@
 # My_Movie_Recommendation_Engine
 
+Python 
+Framework- FLASK
+Frontend - HTML, CSS, JAVASCRIPT 
+API- tmdb
+
 link to the video demo - https://youtu.be/vzCXgbX5mOk
 
 
-link to the ppt = https://docs.google.com/presentation/d/114w0RF0PxCBSSZ7ULcDKa9Eu0fY183ex/edit?usp=drivesdk&ouid=113690583636192133773&rtpof=true&sd=true
+link to the presentation = https://docs.google.com/presentation/d/114w0RF0PxCBSSZ7ULcDKa9Eu0fY183ex/edit?usp=drivesdk&ouid=113690583636192133773&rtpof=true&sd=true
 
 
 linkedIn = https://www.linkedin.com/in/deeksha-agarwal-b02256204
