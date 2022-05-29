@@ -19,6 +19,8 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=credits.cs
 
 
 COSINE SIMILIARITY
+
+
 Cosine similarity is a metric used to measure how similar two items are. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The output value ranges from 0–1.
 0 means no similarity, where as 1 means that both the items are 100% similar.
 The python Cosine Similarity or cosine kernel, computes similarity as the normalized dot product of input samples X and Y. 
