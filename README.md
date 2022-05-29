@@ -1,8 +1,11 @@
 # My_Movie_Recommendation_Engine
 
 Python 
+
 Framework- FLASK
+
 Frontend - HTML, CSS, JAVASCRIPT 
+
 API- tmdb
 
 link to the video demo - https://youtu.be/vzCXgbX5mOk
